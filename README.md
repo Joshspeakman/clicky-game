@@ -1,5 +1,5 @@
 
-# Clicky-Game (React.js)
+# Clicky Game
 
 ### About
 
